@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Soong!",
+    "name": "Soong",
     "slug": "Todo",
     "privacy": "public",
     "sdkVersion": "33.0.0",
@@ -15,7 +15,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#0059ab"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -25,6 +25,9 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "android": {
+      "package": "com.Son.SangGi"
     }
   }
 }
